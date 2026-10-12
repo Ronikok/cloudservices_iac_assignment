@@ -1,0 +1,5 @@
+project_network = "YOUR PROJECT NETWORK"
+ssh_public_key_path = "PATH TO YOUR PUBLIC SSH KEY"
+name_prefix = "UNIQUE IDENTIFIER"
+ssh_allowed_cidr = "YOUR IP"
+student_name = "YOUR NAME"
