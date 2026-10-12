@@ -1,3 +1,0 @@
-project_2020993
-standard.large
-Ubuntu-26.04
