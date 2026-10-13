@@ -29,5 +29,4 @@ variable "student_name" {
 
 variable "page_message" {
   type    = string
-  default = "iac assignment"
 }
